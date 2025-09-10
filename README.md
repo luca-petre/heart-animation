@@ -6,12 +6,6 @@ A glowing animated heart that comes to life in the browser, with flowing particl
 
 ---
 
-## Demo
-Try it out here: [GitHub Pages Link](https://luca-petre.github.io/heart-animation)  
-*(or just open `heart.html` in your browser)*
-
----
-
 ## Features
 - Glowing animated heart shape  
 - Flowing particle effect forming the heart  
