@@ -3,7 +3,7 @@ A glowing animated heart that comes to life in the browser, with flowing particl
 
 ## Previews
 
-![heartanimation](https://github.com/user-attachments/assets/b962c588-2dae-42ec-b882-d6106bd5e041)
+![heartanimblue](https://github.com/user-attachments/assets/6bb18105-91ac-47e2-bd81-be2276bc785f)
 ![heartanim](https://github.com/user-attachments/assets/c986ad2e-d82d-4645-9d53-e95453db5543)
 
 ---
