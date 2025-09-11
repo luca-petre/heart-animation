@@ -42,6 +42,8 @@ After deployment, just access the `Public endpoint` provided by StateMesh:
 
 <img width="505" height="140" alt="image" src="https://github.com/user-attachments/assets/62f42c94-d3e1-495e-8247-3ba943e5a3b1" />           
 
+<br>
+
 2. Public endpoint in terminal:
 
 <img width="1338" height="26" alt="image" src="https://github.com/user-attachments/assets/cb991433-7e93-4569-aed7-e2727c489f03" />
