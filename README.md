@@ -25,7 +25,7 @@ A dynamic particle system moves smoothly toward points that outline a heart shap
    ```bash
    git clone https://github.com/luca-petre/heart-animaiton.git
    
-2. Open `heart.html`
+2. Open `index.html`
    
 <br>
 That's it!
