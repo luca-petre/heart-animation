@@ -23,14 +23,17 @@ A dynamic particle system moves smoothly toward points that outline a heart shap
 ---
 
 ## How to Run
-1. Clone the repository:
+### Option 1: Add the app on StateMesh directly
+
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](
+https://console.cloud.statemesh.net/deploy?appname=heart-animation&repository=https://github.com/luca-petre/heart-animation.git)
+
+### Option 2:
+1. Clone the repository
    ```bash
    git clone https://github.com/luca-petre/heart-animaiton.git
    
 2. Open `index.html`
-   
-<br>
-That's it!
 
 ---
 
