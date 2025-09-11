@@ -22,23 +22,33 @@ A dynamic particle system moves smoothly toward points that outline a heart shap
 
 ---
 
+## Customization
+You can easily tweak the animation by editing `heart.js` and `heart.css`:
+- Change colors (HLS values) for a different vibe
+- Adjust particle size or spread
+- Modify the pulsing effect timing
+  
+---
+
 ## How to Run
-### Option 1: Add the app on StateMesh directly
+### Option 1: Deploy the app on StateMesh directly
 
 [![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](
 https://console.cloud.statemesh.net/deploy?appname=heart-animation&repository=https://github.com/luca-petre/heart-animation.git)
+
+After deployment, just access the `Public endpoint` provided by StateMesh:
+
+1. Public endpoint in console:
+
+<img width="505" height="140" alt="image" src="https://github.com/user-attachments/assets/62f42c94-d3e1-495e-8247-3ba943e5a3b1" />           
+
+2. Public endpoint in terminal:
+
+<img width="1338" height="26" alt="image" src="https://github.com/user-attachments/assets/cb991433-7e93-4569-aed7-e2727c489f03" />
 
 ### Option 2:
 1. Clone the repository
    ```bash
    git clone https://github.com/luca-petre/heart-animaiton.git
    
-2. Open `index.html`
-
----
-
-## Customization
-You can easily tweak the animation by editing `heart.js` and `heart.css`:
-- Change colors (HLS values) for a different vibe
-- Adjust particle size or spread
-- Modify the pulsing effect timing
+2. Open `index.html`.
