@@ -20,7 +20,8 @@ Next up, I went into the directory that my repository was cloned and saved. Once
 ![deploy](images_article/image-1.png)
 
 ```bash
-NOTE: If you are already inside the repository you want to deploy, you don't need to mention the repository and subpath. You only need to mention the port if you don't want it to be default (80).
+NOTE: If you are already inside the repository you want to deploy, you don't need to mention the repository and subpath. 
+You only need to mention the port if you don't want it to be default (80).
 ```
 As mentioned before, I already went inside the directory I wanted to deploy, so this made my job easier. After writing the command and gave my app a name, I was asked about the port. 
 
