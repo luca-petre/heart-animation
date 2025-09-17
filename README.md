@@ -34,7 +34,7 @@ You can easily tweak the animation by editing `heart.js` and `heart.css`:
 ### Option 1: Deploy the app on StateMesh directly
 
 [![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](
-https://console.cloud.statemesh.net/deploy?appname=heart-animation&repository=https://github.com/luca-petre/heart-animation.git)
+https://console.cloud.statemesh.net/deploy?appname=heart-animation&repository=https://github.com/luca-petre/heart-animation.git&subpath=heart-animation)
 
 After deployment, just access the `Public endpoint` provided by StateMesh:
 
