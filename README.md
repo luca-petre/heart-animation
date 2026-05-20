@@ -1,6 +1,10 @@
 # Heart Animation
 A glowing animated heart that comes to life in the browser, with flowing particles and a pulsing effect for a vibrant and dynamic visual.
 
+You can follow the full process [here](https://medium.com/@lucapetre1/deploying-my-first-app-with-statemesh-bd5e9df960bf)!
+
+--- 
+
 ## Previews
 
 ![heartanimblue](https://github.com/user-attachments/assets/6bb18105-91ac-47e2-bd81-be2276bc785f)
